@@ -1,0 +1,5 @@
+Modules used:
+
+re - for parsing user input
+requests - to make HTTP requests to API
+geopy - # Importing a specific function Nominatim from geopy.geocoders module for geo localization 
